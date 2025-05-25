@@ -1,3 +1,4 @@
+
 """
 echo "# python_base" >> README.md
 git init
@@ -8,3 +9,5 @@ git remote add origin git@github.com:Alyshop/python_base.git
 git push -u origin main
 
 """
+
+print('alyshow esmagando o djanguinho')
